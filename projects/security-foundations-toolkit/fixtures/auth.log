@@ -1,0 +1,5 @@
+2026-05-04 10:00:01 login success user=alice ip=192.168.1.10
+2026-05-04 10:02:33 login failed user=bob ip=192.168.1.20
+2026-05-04 10:03:10 login failed user=admin ip=192.168.1.30
+2026-05-04 10:04:55 sudo command user=alice command=apt update
+2026-05-04 10:07:20 login failed user=guest ip=192.168.1.40
